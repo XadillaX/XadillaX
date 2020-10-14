@@ -12,7 +12,7 @@ Welcome to read my [Blog](https://xcoder.in/) and my books:
 
 And I love [@Amunu](https://github.com/Amunu) so much.
 
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=XadillaX&show_icons=true&theme=material-palenight" alt="XadillaX's github stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=XadillaX&show_icons=true&theme=material-palenight" alt="XadillaX's github stats" />
 </div>
 
 > To make my code like a shitty chocolate or to make it like a chocolatey shit, that's a question.
