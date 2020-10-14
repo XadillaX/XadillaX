@@ -2,7 +2,7 @@
 
 Hey y'all, here's Khaidi Chu (Aka. XadillaX), a lagging people. I'm a Software Engineer @Alibaba and one of the Node.js Core Collaborators. After college I used to work at [Huaban.com](https://huaban.com), [Souche](https://www.dasouche.com/en), [Ant Group](https://www.antgroup.com/en) and [Taobao @Alibaba Group](https://www.alibabagroup.com/en/global/home) as a Node.js Software Engineer.
 
-<table>
+<table style="border: none;">
 <tr>
 <td>
 Now I'm doing something make Alinode (a Node.js distro of Alibaba) cooler.
@@ -21,6 +21,7 @@ And I love [@Amunu](https://github.com/Amunu) so much.
 </td>
 </tr>
 </table>
+
 > To make my code like a shitty chocolate or to make it like a chocolatey shit, that's a question.
 
 
