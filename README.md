@@ -16,7 +16,8 @@ And I love [@Amunu](https://github.com/Amunu) so much.
 
 </div>
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XadillaX&layout=compact&theme=material-palenight" />
+
 > To make my code like a shitty chocolate or to make it like a chocolatey shit, that's a question.
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XadillaX&layout=compact&theme=material-palenight" />
