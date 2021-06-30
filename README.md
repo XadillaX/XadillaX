@@ -3,8 +3,6 @@
 Hey y'all, here's Khaidi Chu (Aka. XadillaX), a lagging people. I'm a Software Engineer @Alibaba and one of the Node.js Core Collaborators. After college I used to work at [Huaban.com](https://huaban.com), [Souche](https://www.dasouche.com/en), [Ant Group](https://www.antgroup.com/en) and [Taobao @Alibaba Group](https://www.alibabagroup.com/en/global/home) as a Node.js Software Engineer.
 
 <div>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=XadillaX&show_icons=true&theme=material-palenight" alt="XadillaX's github stats" />
-
   Now I'm doing something make Alinode (a Node.js distro of Alibaba) cooler.
 
   Welcome to read my [Blog](https://xcoder.in/) and my books:
@@ -15,8 +13,22 @@ Hey y'all, here's Khaidi Chu (Aka. XadillaX), a lagging people. I'm a Software E
   And I love [@Amunu](https://github.com/Amunu) so much.
 </div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XadillaX&layout=compact&theme=material-palenight" />
-
 > To make my code like a shitty chocolate or to make it like a chocolatey shit, that's a question.
-
-
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/nodejs/node" target="_blank"><img src="https://socialify.git.ci/nodejs/node/image?description=1&descriptionEditable=Node.js%20JavaScript%20runtime%20%E2%9C%A8%F0%9F%90%A2%F0%9F%9A%80%E2%9C%A8&font=KoHo&language=1&owner=1&pattern=Overlapping%20Hexagons&stargazers=1&theme=Light" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/libuv/libuv" target="_blank"><img src="https://socialify.git.ci/libuv/libuv/image?description=1&font=KoHo&language=1&owner=1&pattern=Signal&stargazers=1&theme=Dark" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/xadillax/toshihiko" target="_blank"><img src="https://socialify.git.ci/xadillax/toshihiko/image?description=1&descriptionEditable=%F0%9F%A5%9A%20Yet%20another%20simple%20ORM%20for%20Node.js.&font=KoHo&language=1&owner=1&pattern=Brick%20Wall&stargazers=1&theme=Dark" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/xadillax/byakuren" target="_blank"><img src="https://socialify.git.ci/xadillax/byakuren/image?description=1&font=KoHo&language=1&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Light" /></a>
+    </td>
+  </tr>
+</table>
