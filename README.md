@@ -31,4 +31,12 @@ Hey y'all, here's Khaidi Chu (Aka. XadillaX), a lagging people. I'm a Software E
       <a href="https://github.com/xadillax/byakuren" target="_blank"><img src="https://socialify.git.ci/xadillax/byakuren/image?description=1&font=KoHo&language=1&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Light" /></a>
     </td>
   </tr>
+    <tr>
+    <td>
+      <a href="https://github.com/xadillax/node-sfml" target="_blank"><img src="https://socialify.git.ci/xadillax/node-sfml/image?description=1&descriptionEditable=%F0%9F%A5%9A%20Yet%20another%20simple%20ORM%20for%20Node.js.&font=KoHo&language=1&owner=1&pattern=Brick%20Wall&stargazers=1&theme=Dark" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/xadillax/nodenes" target="_blank"><img src="https://socialify.git.ci/xadillax/nodenes/image?description=1&font=KoHo&language=1&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Light" /></a>
+    </td>
+  </tr>
 </table>
