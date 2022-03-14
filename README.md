@@ -1,6 +1,6 @@
-![Flandre](https://github.com/XadillaX/XadillaX/raw/master/Flandre.jpg)
+## Hey y'all 👋, here's Khaidi Chu (Aka. XadillaX, 死月)
 
-## Hey y'all 👋, here's Khaidi Chu (Aka. XadillaX)
+![Flandre](https://github.com/XadillaX/XadillaX/raw/master/Flandre.jpg)
 
 A lagging people. Also a Software Engineer and one of the Node.js Core Collaborators. After college I used to work at
 
