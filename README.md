@@ -9,7 +9,7 @@ A lagging people. Also a Software Engineer and one of the Node.js Core Collabora
 - *[Ant Group](https://www.antgroup.com/en)* and 
 - *[Taobao @Alibaba Group](https://www.alibabagroup.com/en/global/home)*
 
-A [WINTERCG](https://www.w3.org/community/wintercg/) participant. And now I'm working on a **Web-Interoperable Runtime** (Aka. V8 Worker) named *Hourai.js* and *High-density Deployment solution* *[@ByteDance](https://www.bytedance.com/)*.
+A [WinterCG](https://www.w3.org/community/wintercg/) participant. And now I'm working on a **Web-Interoperable Runtime** (Aka. V8 Worker) named *Hourai.js* and *High-density Deployment solution* *[@ByteDance](https://www.bytedance.com/)*.
 
 ## Contents
 
