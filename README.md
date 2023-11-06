@@ -2,7 +2,7 @@
 
 ![Flandre](https://github.com/XadillaX/XadillaX/raw/master/Flandre.jpg)
 
-A lagging people. Also a Software Engineer and one of the Node.js Core Collaborators. After college I used to work at
+A lagging people. A Node.js Core Collaborator born in the ’90s, passionate about gaming despite being not very skilled, a heavy VIM user, and proficient in macOS and Linux.  Specializes in Node.js with secondary expertise in C++, enjoys playing with algorithms, admits to being a front-end novice, and does not work with Java. A retired ACM competitor. After college I used to work at
 
 - *[Huaban.com](https://huaban.com)*
 - *[Souche](https://www.dasouche.com/en)*
