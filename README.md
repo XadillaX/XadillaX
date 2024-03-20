@@ -20,7 +20,7 @@ Welcome to read my [blog](https://xcoder.in/) and my books:
 | [Node.js：来一打 C++ 扩展](https://www.google.com/books/edition/_/52j5xAEACAAJ) | Original | 2018-06 | |
 | [精通 Vim](https://book.douban.com/subject/35005327/) | Translated | 2020-03 | Modern Vim: Craft Your Development Environment with Vim 8 and Neovim |
 | [JavaScript 悟道](https://book.douban.com/subject/35469273/) | Translated | 2021-06 | How JavaScript Works |
-| [软件开发珠玑](https://book.douban.com/subject/36802954/) | Translated | 2021-06 | Software Development Pearls |
+| [软件开发珠玑](https://book.douban.com/subject/36802954/) | Translated | 2024-03 | Software Development Pearls |
 
 
 And I love [@Amunu](https://github.com/Amunu) so much.
